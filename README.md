@@ -18,7 +18,7 @@ This project was developed during an internship at the **Centre de Développemen
 * `/report`: The comprehensive technical internship report (Written in French).
 
 
-## 🛠️ How to Reproduce
+## How to Reproduce
 1. Run `simulation/parameters_generator.m` in MATLAB to inspect the geometric progression calculations.
 2. Open `simulation/lpda_800mhz_5ghz.cst` in CST Studio Suite to review the layout, ports, boundary conditions, and solver parameters.
 
