@@ -16,10 +16,7 @@ This project was developed during an internship at the **Centre de Développemen
   * `parameters_generator.m`: MATLAB script used to analytically determine the scaling factor ($\tau$), spacing factor ($\sigma$), and lengths of the dipole elements.
   * `/macros`: Contains `build_lpda_geometry.vba`, the custom VBA macro script written to fully automate the parametric construction of the LPDA layers inside CST.
 * `/data`: Raw Touchstone (`.s1p`) S11 data and broadband gain text files.
-  
-* `/data`: Raw Touchstone (`.s1p`) S11 data and broadband gain text files.
 * `/images`: High-resolution far-field radiation patterns and performance plots.
-* `/report`: The comprehensive technical internship report (Written in French).
 
 
 ## How to Reproduce
